@@ -174,7 +174,7 @@ streamlit run src/app.py
 
 ### Data Setup
 The LUCAS 2015 spectral dataset (~GB scale) is not included due to size.  
-Download from: [European Commission JRC](https://esdac.jrc.ec.europa.eu/content/lucas-2015-topsoil-data)
+Download from: [European Commission JRC](https://esdac.jrc.ec.europa.eu/content/lucas-2022-topsoil-data)
 
 Place spectral CSVs in:
 ```
