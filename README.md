@@ -66,7 +66,7 @@ XGBoost Models
 Ordinary Kriging Interpolation → Continuous Spatial Maps
         │
         ▼
-Streamlit UI → Interactive Maps + GeoTIFF / CSV Export
+Streamlit UI → Interactive Maps + GeoTIFF 
 ```
 
 ---
@@ -125,9 +125,12 @@ Mean:                                  R²=0.950   Acc=43.9%   R²=0.414
 
 | Plot | Description |
 |---|---|
-| ![N Regression](results/N_regression_plot.png) | Nitrogen prediction vs actual |
-| ![K Regression](results/K_regression_plot.png) | Potassium prediction vs actual |
-| ![P Confusion](results/P_confusion_matrix.png) | Phosphorus 4-class confusion matrix |
+| ![N Regression](<img width="1920" height="1440" alt="Fig8_Regression_N" src="https://github.com/user-attachments/assets/442ba294-b36f-4004-a80b-1c63c0a7f82f" />
+) | Nitrogen prediction vs actual |
+| ![K Regression](<img width="1920" height="1440" alt="Fig9_Regression_K" src="https://github.com/user-attachments/assets/90812ab4-b688-4f28-8040-e1db6998813c" />
+) | Potassium prediction vs actual |
+| ![P Confusion](<img width="1920" height="1440" alt="Fig10_ConfusionMatrix_P" src="https://github.com/user-attachments/assets/c544da3e-0a99-407f-b81c-1774b524af76" />
+) | Phosphorus 4-class confusion matrix |
 
 ---
 
